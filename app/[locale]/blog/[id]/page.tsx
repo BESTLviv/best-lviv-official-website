@@ -3,7 +3,7 @@
 import { useEffect, useState, useRef } from 'react';
 import { useParams } from 'next/navigation';
 
-const API_URL = 'https://best-lviv-web-api.azurewebsites.net';
+const API_URL = 'https://api.best-lviv.org.ua';
 
 export default function ArticlePage() {
     const { id } = useParams();

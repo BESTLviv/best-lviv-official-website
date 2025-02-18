@@ -22,7 +22,7 @@ export default function Page() {
 //     lastUpdated: string;
 // }
 
-// const API_URL = 'https://best-lviv-web-api.azurewebsites.net';
+// const API_URL = 'https://api.best-lviv.org.ua';
 
 // export default function Page() {
 //     const [error, setError] = useState<string | null>(null);

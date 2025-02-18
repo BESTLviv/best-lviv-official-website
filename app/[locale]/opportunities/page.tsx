@@ -15,7 +15,7 @@ type EventType = {
   link: string;
 };
 
-const API_URL = 'https://best-lviv-web-api.azurewebsites.net';
+const API_URL = 'https://api.best-lviv.org.ua';
 
 export default function Page() {
   const [events, setEvents] = useState<EventType[]>([]);
