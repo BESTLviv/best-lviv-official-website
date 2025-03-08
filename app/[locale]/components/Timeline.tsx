@@ -19,7 +19,7 @@ const TIMELINE_EVENTS: TimelineElement[] = [
     { year: 2011, title: "Перший BTW", text_color: "#EC9EFF", photo: "/Timeline/btw.jpg" },
     { year: 2014, title: "Перший BEST::HACKath0n", text_color: "#77DD77", photo: "/Timeline/hack.jpg" },
     { year: 2021, title: "Перший BCI", text_color: "#EC9EFF", photo: "/Timeline/bci.jpg" },
-    { year: 2024, title: "Перший BEST::CTF", text_color: "#FF617E", photo: "/Timeline/ctf.jpg" },
+    { year: 2024, title: "Перший BEST CTF", text_color: "#FF617E", photo: "/Timeline/ctf.jpg" },
     { year: 9999, title: "To Be Continued", text_color: "#808080", photo: "/infinitySign.svg" },
     { year: 9999, title: "To Be Continued", text_color: "#808080", photo: "/infinitySign.svg" },
 ];
